@@ -30,9 +30,3 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 
 [![@nethunranasinghe's Holopin board](https://holopin.me/nethunranasinghe)](https://holopin.io/@nethunranasinghe)
-
-<p align="right">
-<a href="#top">
-<img src="https://img.shields.io/badge/%5E-Go%20To%20Top%20-blue" alt="trlnzG.md.png" border="0">
-</a>
-</p>
