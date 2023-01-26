@@ -28,4 +28,14 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 
+## 📛 Collected Badges :
 [![@nethunranasinghe's Holopin board](https://holopin.me/nethunranasinghe)](https://holopin.io/@nethunranasinghe)
+
+[<img src="https://api.badgr.io/public/assertions/dzq5tQ2nSDOkqFRsz5Qcqw/image" width="150" height="150" align="left" style="margin : 10">](https://api.badgr.io/public/assertions/dzq5tQ2nSDOkqFRsz5Qcqw?identity__email=nethun223%40gmail.com)
+
+
+Postman API Fundamentals Student Expert
+
+**Awarded:** Jan 26, 2023
+
+[VERIFY](https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2Fdzq5tQ2nSDOkqFRsz5Qcqw%3Fidentity__email%3Dnethun223%2540gmail.com&identity__email=nethun223%40gmail.com)
