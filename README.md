@@ -28,7 +28,6 @@
 
 ## 🏫 Currently learning :
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
 
 ## 📛 Collected Badges :
 [![@nethunranasinghe's Holopin board](https://holopin.me/nethunranasinghe)](https://holopin.io/@nethunranasinghe)
