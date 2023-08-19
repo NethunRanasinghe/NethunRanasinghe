@@ -3,7 +3,7 @@
 </p>
 
 ## 🌐 Socials :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/nethun-ranasingha) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Black_Demon223)  [![GitHub followers](https://img.shields.io/github/followers/NethunRanasinghe?label=Follow&style=social)](https://github.com/NethunRanasinghe) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Contact Me](https://img.shields.io/badge/-Contact%20Me-red?logo=gmail&logoColor=white)](mailto:nethun223@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethun-ranasingha) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Black_Demon223)  [![GitHub followers](https://img.shields.io/github/followers/NethunRanasinghe?label=Follow&style=social)](https://github.com/NethunRanasinghe) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![Contact Me](https://img.shields.io/badge/-Contact%20Me-red?logo=gmail&logoColor=white)](mailto:nethun223@gmail.com)
 
 ## 💻 Tech Stack :
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
