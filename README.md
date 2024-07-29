@@ -11,28 +11,24 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white)
-
-
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=plastic)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonwebservices&logoColor=white&style=plastic)
 
 ## 🧑‍🎨 Familiar with :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)</br></br>
-
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)</br>
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=Heroku&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-
-## 🏫 Currently learning :
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=plastic&logo=azure&logoColor=white)
 
 ## 📛 Collected Badges :
 [![@nethunranasinghe's Holopin board](https://holopin.me/nethunranasinghe)](https://holopin.io/@nethunranasinghe)
 
-[<img src="https://api.badgr.io/public/assertions/dzq5tQ2nSDOkqFRsz5Qcqw/image" width="150" height="150" align="left" style="margin : 10">](https://api.badgr.io/public/assertions/dzq5tQ2nSDOkqFRsz5Qcqw?identity__email=nethun223%40gmail.com)
+[<img src="https://media.badgr.com/uploads/badges/assertion-dzq5tQ2nSDOkqFRsz5Qcqw.png" width="150" height="150" align="left" style="margin : 10">](https://api.badgr.io/public/assertions/dzq5tQ2nSDOkqFRsz5Qcqw?identity__email=nethun223%40gmail.com)
 
 
 Postman API Fundamentals Student Expert
