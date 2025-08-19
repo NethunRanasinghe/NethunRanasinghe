@@ -1,38 +1,71 @@
 <p align="center">
-  <img src="https://iili.io/trlnzG.md.png" alt="trlnzG.md.png" width=400 height=400 border="0"><br>
+  <img src="https://iili.io/trlnzG.md.png" alt="Profile Banner" width="400" height="400">
 </p>
 
-## 🌐 Socials :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethun-ranasingha) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Black_Demon223)  [![GitHub followers](https://img.shields.io/github/followers/NethunRanasinghe?label=Follow&style=social)](https://github.com/NethunRanasinghe) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![Contact Me](https://img.shields.io/badge/-Contact%20Me-red?logo=gmail&logoColor=white)](mailto:nethun223@gmail.com)
+<h1 align="center">Hi 👋, I'm Nethun Ranasinghe</h1>
+<h3 align="center">Cloud | DevOps | Kubernetes Enthusiast 🚀</h3>
 
-## 💻 Tech Stack :
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=Go&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=plastic)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonwebservices&logoColor=white&style=plastic)
+---
 
-## 🧑‍🎨 Familiar with :
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)</br>
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/nethun-ranasingha">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://reddit.com/user/Black_Demon223">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white">
+  </a>
+  <a href="https://github.com/NethunRanasinghe">
+    <img src="https://img.shields.io/github/followers/NethunRanasinghe?label=Follow&style=for-the-badge">
+  </a>
+  <a href="mailto:contact@nethunr.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=Heroku&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=plastic&logo=azure&logoColor=white)
+---
 
-## 📛 Collected Badges :
-[![@nethunranasinghe's Holopin board](https://holopin.me/nethunranasinghe)](https://holopin.io/@nethunranasinghe)
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white">
+  <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+</p>
 
-[<img src="https://media.badgr.com/uploads/badges/assertion-dzq5tQ2nSDOkqFRsz5Qcqw.png" width="150" height="150" align="left" style="margin : 10">](https://api.badgr.io/public/assertions/dzq5tQ2nSDOkqFRsz5Qcqw?identity__email=nethun223%40gmail.com)
+---
 
+## 🧑‍🎨 Familiar With
+<p align="center">
+  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/digitalocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white">
+  <img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</p>
 
-Postman API Fundamentals Student Expert
+---
 
-**Awarded:** Jan 26, 2023
+## 📛 Collected Badges
+<p align="center">
+  <a href="https://holopin.io/@nethunranasinghe">
+    <img src="https://holopin.me/nethunranasinghe" alt="@nethunranasinghe's Holopin board">
+  </a>
+</p>
 
-[VERIFY](https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2Fdzq5tQ2nSDOkqFRsz5Qcqw%3Fidentity__email%3Dnethun223%2540gmail.com&identity__email=nethun223%40gmail.com)
+---
+
+## 🎓 Certifications
+
+| [<img src="https://media.badgr.com/uploads/badges/assertion-dzq5tQ2nSDOkqFRsz5Qcqw.png" width="150" height="150" alt="Postman API Fundamentals Student Expert">](https://api.badgr.io/public/assertions/dzq5tQ2nSDOkqFRsz5Qcqw?identity__email=nethun223%40gmail.com) | [<img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="150" height="150" alt="CKA: Certified Kubernetes Administrator">](https://www.credly.com/badges/dbdcb5bb-b03d-47c5-9dd2-7edebd67c41d/public_url) |
+|---|---|
+| **Postman API Fundamentals Student Expert** | **CKA: Certified Kubernetes Administrator** |
+| **Awarded:** Jan 26, 2023 <br> [VERIFY](https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2Fdzq5tQ2nSDOkqFRsz5Qcqw%3Fidentity__email%3Dnethun223%2540gmail.com&identity__email=nethun223%40gmail.com) | **Awarded:** Aug 18, 2025 <br> **Expires:** Aug 17, 2027 <br> [VERIFY](https://www.credly.com/badges/dbdcb5bb-b03d-47c5-9dd2-7edebd67c41d/public_url) |
+
+---
